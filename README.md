@@ -1,2 +1,2 @@
 # bash_shell
-shell脚本练习
+shell编写的常用工具
